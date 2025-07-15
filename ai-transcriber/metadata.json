@@ -1,5 +1,0 @@
-
-{
-  "name": "AI Audio/Video Transcriber",
-  "description": "An application to transcribe audio and video files using AI. Features include speaker diarization, timestamps, transcript editing, and exporting to multiple formats like .txt and .docx."
-}
